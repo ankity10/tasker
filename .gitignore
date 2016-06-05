@@ -1,5 +1,3 @@
 node_modules/
 .idea/*
-.meteor/local/db
-.meteor/local/build
-.meteor/local/bundler-cache
+.meteor/local/
