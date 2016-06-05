@@ -1,3 +1,4 @@
 node_modules/
 .idea/*
 .meteor/local/db
+.meteor/local/build
