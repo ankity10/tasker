@@ -3,3 +3,4 @@ node_modules/
 .meteor/local/db
 .meteor/local/build
 .meteor/local/bundler-cache
+.meteor/local/shell
